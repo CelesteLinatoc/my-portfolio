@@ -42,6 +42,32 @@ As a dedicated cybersecurity professional, my mission is to safeguard digital as
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=Cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=CSharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-R-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white" />
+
+
+</div>
+
+## Scripting Languages
+<div>
+   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white" />
+
+
+
+</div>
+
+
 ## Certifications
 
 <div>
