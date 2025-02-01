@@ -52,6 +52,8 @@ As a dedicated cybersecurity professional, my mission is to safeguard digital as
     <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=CSharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-R-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+
 
 
 </div>
