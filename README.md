@@ -40,6 +40,8 @@ As a dedicated cybersecurity professional, my mission is to safeguard digital as
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Chronicle_SIEM-FF5733?&style=for-the-badge&logo=Google&logoColor=white" />
+
 </div>
 
 ## Programming Languages
